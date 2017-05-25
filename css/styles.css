@@ -1,0 +1,47 @@
+.column {
+  width: 30%;
+  float: right;
+}
+
+#hero {
+  padding-left: 40px;
+}
+
+#top-nav {
+  padding-top: 35px;
+}
+
+#main {
+  width: 100%;
+}
+
+#sidebar {
+  padding: 0px;
+  min-height: 100%;
+}
+
+a {
+  color: #333333;
+}
+
+.sidebar-list {
+  list-style: none;
+  padding-left: 0;
+}
+
+li > a {
+  list-style: disc;
+  padding-left: 0;
+  text-decoration: none;
+}
+
+.underline {
+  border-width: 0px 0px 1px 0px;
+  border-style: solid;
+  border-color: #dddddd;
+}
+
+#chapel {
+  float: left;
+  margin-right: 40px;
+}
